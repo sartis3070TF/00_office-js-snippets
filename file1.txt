@@ -1,0 +1,6 @@
+Title: file1.tex
+
+May favorite days of the week:
+1. Sunday
+2. Monday
+3. Tuesday
